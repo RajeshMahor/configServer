@@ -1,0 +1,3 @@
+server.port=8011
+customer.message=Hello from Config Server
+customer.name=Rajesh
